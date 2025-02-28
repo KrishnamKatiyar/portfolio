@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Brain Tumor Detection",
+    "image": "/brn_tumr.jpg",
+    "description": "AI-driven platform for secure, accurate brain tumor diagnosis from MRI scans. Simple, fast, and reliable for patients and professionals.",
+    "tags": ["django", "kaggle", "Numpy", "Pandas", "Python"],
+    "source_code": "https://github.com/KrishnamKatiyar/Brain-Tumor-Detection.git"
+  },
+  {
+    "id": 2,
+    "name": "WanderLust",
+    "image": "/travel.jpg",
+    "description": "A streamlined platform leveraging advanced search and secure booking systems to help users find and reserve the perfect hotels quickly and efficiently.",
+    "tags": ["REST", "JavaScript", "MERN", "HTML", "CSS"],
+    "source_code": "https://github.com/KrishnamKatiyar/Wanderlust.git"
+  },
+  {
+    "id": 3,
+    "name": "Shoepp",
+    "image": "/shoes.jpg",
+    "description": "A dynamic platform offering a wide range of shoes made using Java and thymeleaf",
+    "tags": ["Java", "Spring boot", "RESTAPI", "Thymeleaf", "AWS", "HTML", "CSS"],
+    "source_code": "https://github.com/KrishnamKatiyar/KrishnamKatiyar-E-Commerce-Shoes-Website.git"
+  }
+]
