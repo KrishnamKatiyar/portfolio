@@ -4,10 +4,11 @@ import {
   FaPython, FaJava, FaJs, FaDatabase,
   FaReact, FaNode, FaDocker, FaGitAlt, FaAws 
 } from 'react-icons/fa';
+import { FaWindows } from 'react-icons/fa';
 import { 
   SiDjango, SiTensorflow, SiMongodb, 
   SiLangchain, SiOpenai, SiPostgresql, 
-  SiHtml5, SiCss3, SiFirebase, SiWindows,
+  SiHtml5, SiCss3, SiFirebase,
   SiLinux, SiPandas, SiNumpy, SiFlask,
   SiMlflow
 } from 'react-icons/si';
@@ -58,7 +59,7 @@ const AboutPage = () => {
       { name: 'MongoDB', icon: <SiMongodb /> },
       { name: 'PostgreSQL', icon: <SiPostgresql /> },
       { name: 'Firebase', icon: <SiFirebase /> },
-      { name: 'Windows', icon: <SiWindows /> },
+      { name: 'Windows', icon: <FaWindows /> },
       { name: 'Linux', icon: <SiLinux /> }
     ]
   };
